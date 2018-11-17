@@ -1,0 +1,40 @@
+name: pygeo
+channels:
+  - conda-forge
+  - esri
+dependencies:
+  - python=3.6
+  - arcgis
+  - gdal
+  - imageio
+  - matplotlib
+  - numpy
+  - scikit-image
+  - scikit-learn
+  - scipy
+  - pip:
+    - cython
+    - cartopy
+    - descartes
+    - descartes
+    - folium
+    - geojsonio
+    - geopandas
+    - h5py
+    - lidar
+    - mapboxgl
+    - pandana
+    - pygdal
+    - pygis
+    - pyModis
+    - pysal
+    - rasterio
+    - rasterstats
+    - requests
+    - rtree
+    - sentinelhub
+    - tifffile
+    - whitebox
+    - xarray
+
+
