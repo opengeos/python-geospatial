@@ -19,3 +19,12 @@ conda env create -f environment.yml
 source activate pygeo
 ipython kernel install --user --name="pygeo"
 ```
+
+## References
+
+* [Awesome-Geospatial](https://github.com/sacridini/Awesome-Geospatial)
+* [SpatialPython](https://github.com/SpatialPython/spatial_python)
+* [python-geospatial-ecosystem](https://github.com/loicdtx/python-geospatial-ecosystem)
+* [Automating-GIS-processes](https://github.com/Automating-GIS-processes/2018)
+* [Geo-Python](https://github.com/geo-python/2018)
+* [Essential geospatial Python libraries](https://medium.com/@chrieke/essential-geospatial-python-libraries-5d82fcc38731)
