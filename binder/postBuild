@@ -1,0 +1,9 @@
+#!/bin/bash
+cd /srv/conda/lib/python3.6/site-packages/whitebox
+wget http://www.uoguelph.ca/~hydrogeo/WhiteboxTools/WhiteboxTools_linux_amd64.tar.xz
+tar -xvf WhiteboxTools_linux_amd64.tar.xz
+mv WBT/whitebox_tools .
+mkdir testdata
+cd testdata
+wget https://github.com/jblindsay/whitebox-tools/raw/master/testdata/DEM.tif
+wget https://github.com/jblindsay/whitebox-tools/raw/master/testdata/DEM.dep
