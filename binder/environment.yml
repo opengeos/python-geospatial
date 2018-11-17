@@ -14,7 +14,6 @@ dependencies:
   - scipy
   - pip:
     - cython
-    - cartopy
     - descartes
     - descartes
     - folium
