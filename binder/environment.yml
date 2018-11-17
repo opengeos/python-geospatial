@@ -13,6 +13,7 @@ dependencies:
   - scikit-learn
   - scipy
   - pip:
+    - bokeh
     - cython
     - descartes
     - descartes
@@ -23,6 +24,7 @@ dependencies:
     - lidar
     - mapboxgl
     - pandana
+    - plotly
     - pygdal
     - pygis
     - pyModis
@@ -31,9 +33,12 @@ dependencies:
     - rasterstats
     - requests
     - rtree
+    - seaborn
     - sentinelhub
     - tifffile
     - whitebox
     - xarray
+    - tensorflow
+    - keras
 
 

@@ -1,6 +1,6 @@
 # python-geospatial
 
-Python packages for geospatial analysis with binder-ready notebook examples
+A collection of Python packages for geospatial analysis with binder-ready notebook examples.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/giswqs/python-geospatial/master)
 [![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
