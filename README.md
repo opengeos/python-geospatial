@@ -17,4 +17,5 @@ git clone https://github.com/giswqs/python-geospatial.git
 cd python-geospatial/binder/
 conda env create -f environment.yml
 source activate pygeo
+ipython kernel install --user --name="pygeo"
 ```

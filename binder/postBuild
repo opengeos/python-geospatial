@@ -7,3 +7,4 @@ mkdir testdata
 cd testdata
 wget https://github.com/jblindsay/whitebox-tools/raw/master/testdata/DEM.tif
 wget https://github.com/jblindsay/whitebox-tools/raw/master/testdata/DEM.dep
+pip install cartopy
