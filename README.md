@@ -1,6 +1,6 @@
 # python-geospatial
 
-A collection of Python packages for geospatial analysis with binder-ready notebook examples. Launch the interactive notebook tutorials with mybinder.org or binder.pangeo.io test all the pre-installed Python pakcages for geospatial analysis.
+A collection of Python packages for geospatial analysis with binder-ready notebook examples. Launch the interactive notebook tutorials with **mybinder.org** or **binder.pangeo.io** test all the pre-installed Python pakcages for geospatial analysis.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/giswqs/python-geospatial/master)
 [![Pangeo](http://binder.pangeo.io/badge.svg)](http://binder.pangeo.io/v2/gh/giswqs/python-geospatial/master)
@@ -26,7 +26,7 @@ ipython kernel install --user --name="pygeo"
 
 ## Tutorials
 
-Launch the interactive notebook tutorial with **mybinder.org** or **binder.pangeo.io** now:
+Launch the interactive notebook tutorials with **mybinder.org** or **binder.pangeo.io** now:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/giswqs/python-geospatial/master)
 [![Pangeo](http://binder.pangeo.io/badge.svg)](http://binder.pangeo.io/v2/gh/giswqs/python-geospatial/master)

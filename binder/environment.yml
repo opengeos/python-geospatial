@@ -26,7 +26,6 @@ dependencies:
     - geopandas
     - geoplot
     - geopy
-    - gippy
     - gpdvega
     - h5py
     - lidar
@@ -65,4 +64,5 @@ dependencies:
     - tensorflow
     - keras
     - "git+https://github.com/karimbahgat/pyncf.git"
+    # - gippy
     # - "git+https://github.com/matplotlib/basemap.git"
