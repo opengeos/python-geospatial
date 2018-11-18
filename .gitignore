@@ -5,9 +5,11 @@ __pycache__/
 .idea/
 .vscode/
 
+
 # exclude files
 dev/
 examples/temp
+examples/data
 
 # tif files extra
 *.tfw
