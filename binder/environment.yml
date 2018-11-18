@@ -14,31 +14,55 @@ dependencies:
   - scikit-learn
   - scipy
   - pip:
+    - area
     - bokeh
     - cython
+    - dask-rasterio
     - descartes
     - descartes
     - folium
+    - geeup
     - geojsonio
     - geopandas
+    - geoplot
+    - geopy
+    - gippy
+    - gpdvega
     - h5py
     - lidar
+    - mahotas
     - mapboxgl
+    - mplleaflet
     - oauth2client
     - pandana
+    - peartree
     - plotly
     - pygdal
     - pygis
+    - pymap3d
     - pyModis
     - pysal
+    - pycsw
+    - pywps
     - rasterio
     - rasterstats
     - requests
+    - rio-cogeo
+    - rio-color
+    - rio-hist
+    - rio-tiler
     - rtree
     - seaborn
     - sentinelhub
+    - sentinelsat
     - tifffile
+    - tsraster
+    - urbansim
+    - usgs
+    - verde
     - whitebox
     - xarray
     - tensorflow
     - keras
+    - "git+https://github.com/karimbahgat/pyncf.git"
+    # - "git+https://github.com/matplotlib/basemap.git"
