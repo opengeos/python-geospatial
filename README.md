@@ -39,7 +39,7 @@ This list of Python packages is adapted from the Python list of [Awesome Geospat
 * [whitebox](https://github.com/giswqs/whitebox) :zap: - A Python package for advanced geospatial data analysis based on [WhiteboxTools](https://github.com/jblindsay/whitebox-tools).
 * [lidar](https://github.com/giswqs/lidar) - lidar is a toolset for terrain and hydrological analysis using digital elevation models (DEMs).
 * [pygis](https://github.com/giswqs/pygis) - pygis is a collection of Python snippets for geospatial analysis.
-* [ArcGIS Python API](https://developers.arcgis.com/python/) - ArcGIS API for Python is a Python library for working with maps and geospatial data, powered by web GIS.
+* [ArcGIS Python API](https://developers.arcgis.com/python/) - Esri's Python library for working with maps and geospatial data, powered by web GIS.
 * [dask-rasterio](https://github.com/dymaxionlabs/dask-rasterio) - Read and write rasters in parallel using Rasterio and Dask.
 * [earthengine-api](https://anaconda.org/conda-forge/earthengine-api) :zap: - The Earth Engine Python API allows developers to interact with Google Earth Engine.
 * [Fiona](http://toblerity.org/fiona/) :zap: - For making it easy to read/write geospatial data formats.
@@ -75,7 +75,7 @@ This list of Python packages is adapted from the Python list of [Awesome Geospat
 * [urbansim](https://github.com/UDST/urbansim) - New version of UrbanSim, a platform for modeling metropolitan real estate markets.
 * [USGS API](https://github.com/kapadia/usgs) - USGS is a python module for interfacing with the US Geological Survey's API.
 * [Verde](https://github.com/fatiando/verde) - Verde is a Python library for processing spatial data and interpolating it on regular grids.
-* [xarray](http://xarray.pydata.org/en/stable/) - xarray is an open source project and Python package that aims to bring the labeled data power of pandas to the physical sciences.
+* [xarray](http://xarray.pydata.org/en/stable/) - An open source project that aims to bring the labeled data power of pandas to the physical sciences.
 
 
 ### Mapping/Plotting
@@ -94,7 +94,7 @@ This list of Python packages is adapted from the Python list of [Awesome Geospat
 ### Deep Learning
 * [label-maker](https://github.com/developmentseed/label-maker) - Data Preparation for Satellite Machine Learning.
 * [label-maker-binder](https://github.com/giswqs/label-maker-binder/pulse) - Using label-maker in an interactive notebook on the cloud.
-* [Keras](https://keras.io/) - Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano.
+* [Keras](https://keras.io/) - Keras is a high-level neural networks API capable of running on top of TensorFlow, CNTK, or Theano.
 * [TensorFlow](https://www.tensorflow.org/) - TensorFlow is an open source software library for numerical computation using data flow graphs.
 
 
@@ -102,7 +102,7 @@ This list of Python packages is adapted from the Python list of [Awesome Geospat
 
 * [dask](https://github.com/dask/dask) - Dask is a flexible parallel computing library for analytics. 
 * [imageio](https://imageio.github.io/) - imageio provides an easy interface to read and write a wide range of image data.
-* [Mahotas](https://github.com/luispedro/mahotas) - Mahotas is a library of fast computer vision algorithms (all implemented in C++ for speed) operating over numpy arrays.
+* [Mahotas](https://github.com/luispedro/mahotas) - Mahotas is a library of fast computer vision algorithms operating over numpy arrays.
 * [NumPy](http://www.numpy.org/) - NumPy is the fundamental package for scientific computing with Python.
 * [Pandas](http://pandas.pydata.org/) - Open source library providing high-performance, easy-to-use data structures and data analysis tools.
 * [scikit-image](http://scikit-image.org/) - Scikit-image is a collection of algorithms for image processing.
@@ -119,7 +119,7 @@ This list of Python packages is adapted from the Python list of [Awesome Geospat
 * [Geospatial Big Data Platform (GBDX)](https://platform.digitalglobe.com/gbdx/) - Cloud computing platform from Digital Globe.
 * [Radiant Earth](https://www.radiant.earth/) - Open-source cloud computing infrastructure for geospatial analysis. 
 * [Sentinel Playground](https://www.sentinel-hub.com/) - Cloud platform for analysis of Sentinel-2A and B and so on.
-* [Vane: Query Language](https://owm.io/vaneLanguage) - Creating Basemaps from different satellite images with online processing and computing, with global coverage.
+* [Vane: Query Language](https://owm.io/vaneLanguage) - Creating Basemaps from different satellite images with online processing and computing.
 
 ## References
 
