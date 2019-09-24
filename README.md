@@ -7,7 +7,7 @@ A collection of Python packages for geospatial analysis with binder-ready notebo
 [![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-Author: Qiusheng Wu (https://wetlands.io | wqs@binghamton.edu)
+Author: Qiusheng Wu (https://wetlands.io)
 
 ## Installation
 
