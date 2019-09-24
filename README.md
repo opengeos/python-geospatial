@@ -9,7 +9,6 @@ A collection of Python packages for geospatial analysis with binder-ready notebo
 
 Author: Qiusheng Wu (https://wetlands.io | wqs@binghamton.edu)
 
-
 ## Installation
 
 It is highly recommended that you use the [conda](https://conda.io/docs/index.html) package manager to install all the requirements. You can either install [Miniconda](https://conda.io/miniconda.html) or the (larger) [Anaconda](https://www.anaconda.com/download/) distribution. It is also recommended that you install [git](https://git-scm.com/downloads) so that you can clone this GitHub reposiotry to your computer. 
@@ -36,6 +35,7 @@ Launch the interactive notebook tutorials with **mybinder.org** or **binder.pang
 This list of Python packages is adapted from the Python list of [Awesome Geospatial](https://github.com/sacridini/Awesome-Geospatial#python). All the listed Python packages have been pre-installed in the binder environment.   
 
 ### Geospatial Analysis
+
 * [whitebox](https://github.com/giswqs/whitebox) :zap: - A Python package for advanced geospatial data analysis based on [WhiteboxTools](https://github.com/jblindsay/whitebox-tools).
 * [lidar](https://github.com/giswqs/lidar) - lidar is a toolset for terrain and hydrological analysis using digital elevation models (DEMs).
 * [pygis](https://github.com/giswqs/pygis) - pygis is a collection of Python snippets for geospatial analysis.
@@ -77,8 +77,8 @@ This list of Python packages is adapted from the Python list of [Awesome Geospat
 * [Verde](https://github.com/fatiando/verde) - Verde is a Python library for processing spatial data and interpolating it on regular grids.
 * [xarray](http://xarray.pydata.org/en/stable/) - An open source project that aims to bring the labeled data power of pandas to the physical sciences.
 
-
 ### Mapping/Plotting
+
 * [basemap](https://github.com/matplotlib/basemap) - Plot on map projections (with coastlines and political boundaries) using matplotlib.
 * [bokeh](https://github.com/bokeh/bokeh) - Interactive Web Plotting for Python.
 * [Cartopy](http://scitools.org.uk/cartopy/) - A library providing cartographic tools for python for plotting spatial data.
@@ -90,13 +90,14 @@ This list of Python packages is adapted from the Python list of [Awesome Geospat
 * [mplleaflet](https://github.com/jwass/mplleaflet) - mplleaflet converts a matplotlib plot into a webpage containing a pannable, zoomable Leaflet map.
 * [pyWPS](http://pywps.org/) - An implementation of the Web Processing Service standard from the Open Geospatial Consortium. 
 * [pyCSW](http://pycsw.org/) - Fully implements the OpenGIS Catalogue Service Implementation Specification.
+* [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) - A Jupyter / Leaflet bridge enabling interactive maps in the Jupyter notebook.
 
 ### Deep Learning
+
 * [label-maker](https://github.com/developmentseed/label-maker) - Data Preparation for Satellite Machine Learning.
 * [label-maker-binder](https://github.com/giswqs/label-maker-binder/pulse) - Using label-maker in an interactive notebook on the cloud.
 * [Keras](https://keras.io/) - Keras is a high-level neural networks API capable of running on top of TensorFlow, CNTK, or Theano.
 * [TensorFlow](https://www.tensorflow.org/) - TensorFlow is an open source software library for numerical computation using data flow graphs.
-
 
 ### General Python
 
@@ -111,8 +112,6 @@ This list of Python packages is adapted from the Python list of [Awesome Geospat
 * [Statsmodels](http://statsmodels.sourceforge.net/) - Python module that allows users to explore data, estimate statistical models, and perform statistical tests.
 
 ## Cloud Computing Platforms
-
-
 
 * [Google Earth Engine](https://earthengine.google.com/) :zap: - Planetary-scale geospatial analysis for everyone.
 * [Pangeo](http://pangeo.io/) - A community platform for Big Data geoscience.
