@@ -42,6 +42,7 @@ This list of Python packages is adapted from the Python list of [Awesome Geospat
 * [ArcGIS Python API](https://developers.arcgis.com/python/) - Esri's Python library for working with maps and geospatial data, powered by web GIS.
 * [dask-rasterio](https://github.com/dymaxionlabs/dask-rasterio) - Read and write rasters in parallel using Rasterio and Dask.
 * [earthengine-api](https://anaconda.org/conda-forge/earthengine-api) :zap: - The Earth Engine Python API allows developers to interact with Google Earth Engine.
+* [EarthPy](https://github.com/earthlab/earthpy) - EarthPy is a python package that makes it easier to plot and work with spatial raster and vector data. 
 * [Fiona](http://toblerity.org/fiona/) :zap: - For making it easy to read/write geospatial data formats.
 * [GDAL](https://anaconda.org/conda-forge/gdal) - The Geospatial Data Abstraction Library for reading and writing raster and vector geospatial data formats. 
 * [geeup](https://github.com/samapriya/geeup) - Simple CLI for Earth Engine Uploads.
@@ -116,7 +117,8 @@ This list of Python packages is adapted from the Python list of [Awesome Geospat
 * [Google Earth Engine](https://earthengine.google.com/) :zap: - Planetary-scale geospatial analysis for everyone.
 * [Pangeo](http://pangeo.io/) - A community platform for Big Data geoscience.
 * [Geospatial Big Data Platform (GBDX)](https://platform.digitalglobe.com/gbdx/) - Cloud computing platform from Digital Globe.
-* [Radiant Earth](https://www.radiant.earth/) - Open-source cloud computing infrastructure for geospatial analysis. 
+* [Radiant Earth](https://www.radiant.earth/) - Open-source cloud computing infrastructure for geospatial analysis.
+* [Radiant MLHub](https://www.mlhub.earth/) - Open Repository for Geospatial Training Data.
 * [Sentinel Playground](https://www.sentinel-hub.com/) - Cloud platform for analysis of Sentinel-2A and B and so on.
 * [Vane: Query Language](https://owm.io/vaneLanguage) - Creating Basemaps from different satellite images with online processing and computing.
 
