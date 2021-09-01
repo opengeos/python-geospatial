@@ -92,6 +92,7 @@ This list of Python packages is adapted from the Python list of [Awesome Geospat
 * [pyWPS](http://pywps.org/) - An implementation of the Web Processing Service standard from the Open Geospatial Consortium. 
 * [pyCSW](http://pycsw.org/) - Fully implements the OpenGIS Catalogue Service Implementation Specification.
 * [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) - A Jupyter / Leaflet bridge enabling interactive maps in the Jupyter notebook.
+* [here-map-widget-for-jupyter](https://github.com/heremaps/here-map-widget-for-jupyter) - Use HERE Maps API for JavaScript in your Jupyter Notebook.
 
 ### Deep Learning
 
