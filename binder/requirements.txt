@@ -1,2 +1,2 @@
-cartopy
+cartopy==0.18.0
 # seaborn==0.8.1
