@@ -112,6 +112,7 @@ This list of Python packages is adapted from the Python list of [Awesome Geospat
 * [scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn is a Python module for machine learning built on top of SciPy.
 * [SciPy](https://github.com/scipy/scipy) - SciPy is open-source software for mathematics, science, and engineering.
 * [Statsmodels](http://statsmodels.sourceforge.net/) - Python module that allows users to explore data, estimate statistical models, and perform statistical tests.
+* [geojson-shave](https://github.com/ben-n93/geojson-shave) - A Python command-line tool for reducing the size of GeoJSON files.
 
 ## Cloud Computing Platforms
 
